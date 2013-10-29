@@ -1,0 +1,14 @@
+C++ Project using SFML, created in 2010 by Amélie Benoit & Romain Chabernaud
+
+
+JBALL
+
+To launch the game, go to "jball" repository and use the following commands :
+Compile command : "make"
+Launch game : "./JBall"
+
+Rules : 
+Try to build walls and seal off blocks without hitting walls. You have a time limit. You can build horizontal or vertical wall, change the cursor using the mouse wheel. 
+
+Options are availables. You can press "p" key during the game to pause, and you will then be able to save the game, change the options, leave the game.
+
